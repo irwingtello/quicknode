@@ -1,0 +1,15 @@
+[
+    {
+        "chainId": "0x1",
+        "currentSymbol": "ETH",
+        "blockExplorerUrl": "https://etherscan.io/address/",
+        "endpoint":"https://blue-blissful-night.discover.quiknode.pro/df1da1f894af27d312e4e50e60c9fbcd7d9eaa70/"
+    },
+    {
+        "chainId": "0xSOL",
+        "currentSymbol": "SOL",
+        "blockExplorerUrl": "https://explorer.solana.com/address/",
+        "endpoint":"https://greatest-few-patron.solana-mainnet.discover.quiknode.pro/df8762d73593441d895c360bc95ccd9b3c9f36ec/"
+
+    }
+]
